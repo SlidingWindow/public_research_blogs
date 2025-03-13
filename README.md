@@ -7,14 +7,17 @@ https://www.linkedin.com/pulse/dns-proxy-bypass-discover-original-ip-address-web
 
 https://www.bamsoftware.com/papers/fronting/
 
-DefCon Attacking JSON unmarshallers (deserialization) ==> https://www.youtube.com/watch?v=ZBfBYoK_Wr0
+DefCon Attacking JSON unmarshallers (deserialization):
+https://www.youtube.com/watch?v=ZBfBYoK_Wr0
 
-HEXACON2023 - Exploiting Hardened .NET Deserialization by Piotr Bazy => https://www.youtube.com/watch?v=_CJmUh0_uOM
+HEXACON2023 - Exploiting Hardened .NET Deserialization by Piotr Bazy:
+https://www.youtube.com/watch?v=_CJmUh0_uOM
 
 
 # Browser / JavaScript Engine Security
 
-Understanding the V8 JavaScript Engine ==> https://www.youtube.com/watch?v=xckH5s3UuX4
+Understanding the V8 JavaScript Engine:
+https://www.youtube.com/watch?v=xckH5s3UuX4
 
 # Windows Security Research
 
@@ -40,7 +43,8 @@ https://www.tiraniddo.dev/2020/04/sharing-logon-session-little-too-much.html
 
 https://maldevacademy.com/syllabus
 
-Getting started with Windows Kernel Exploitation ==> https://wetw0rk.github.io/posts/
+Getting started with Windows Kernel Exploitation:
+https://wetw0rk.github.io/posts/
 
 https://ethicalchaos.dev/2020/04/13/sweetpotato-local-service-to-system-privesc/
 
@@ -58,17 +62,21 @@ https://cve-north-stars.github.io/docs/Patch-Diffing
 
 https://www.youtube.com/watch?v=RJXsvAjZl9U
 
-Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation ==> https://www.youtube.com/watch?v=MRku-2fW42w
+Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation:
+https://www.youtube.com/watch?v=MRku-2fW42w
 
-Frida Tutorial for Reverse Engineers 1 of 10: [Installing Frida on Windows ==> ](https://youtu.be/ZdvSYc8VJG0?si=_t8XG_fyiaf9MSAr)
+Frida Tutorial for Reverse Engineers 1 of 10: [Installing Frida on Windows]:
+(https://youtu.be/ZdvSYc8VJG0?si=_t8XG_fyiaf9MSAr)
 
 # Windows Debugging
 
 https://learn.microsoft.com/en-us/windows-hardware/drivers/debuggercmds/time-travel-debugging-overview
 
-Windows Debugging and Troubleshooting ==> https://www.youtube.com/watch?v=2rGS5fYGtJ4
+Windows Debugging and Troubleshooting:
+https://www.youtube.com/watch?v=2rGS5fYGtJ4
 
-8-BITs of The Visual Studio Debugger You Should Use! ==> https://www.youtube.com/watch?v=53b5oJDu-C4
+8-BITs of The Visual Studio Debugger You Should Use!:
+https://www.youtube.com/watch?v=53b5oJDu-C4
 
 http://www.rohitab.com/apimonitor
 
