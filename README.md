@@ -111,7 +111,7 @@ https://www.snowflake.com/wp-content/uploads/2024/01/Generative-AI-and-LLMs-for-
 
 # Productivity
 
-https://amzn.asia/d/11G1ptX
+Deep Work by Cal Newport: https://amzn.asia/d/11G1ptX
 
 https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
 
