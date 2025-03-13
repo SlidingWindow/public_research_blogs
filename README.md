@@ -43,7 +43,7 @@ https://www.tiraniddo.dev/2020/04/sharing-logon-session-little-too-much.html
 
 https://maldevacademy.com/syllabus
 
-Getting started with Windows Kernel Exploitation:
+# Getting started with Windows Kernel Exploitation
 https://wetw0rk.github.io/posts/
 
 https://ethicalchaos.dev/2020/04/13/sweetpotato-local-service-to-system-privesc/
