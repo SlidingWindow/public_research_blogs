@@ -60,7 +60,7 @@ https://cve-north-stars.github.io/docs/Patch-Diffing
 
 # Dynamic Instrumentation
 
-https://www.youtube.com/watch?v=RJXsvAjZl9U
+Hooking Java Methods with Frida: https://www.youtube.com/watch?v=RJXsvAjZl9U
 
 Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation:
 https://www.youtube.com/watch?v=MRku-2fW42w
