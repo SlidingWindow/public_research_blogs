@@ -65,8 +65,8 @@ https://www.youtube.com/watch?v=RJXsvAjZl9U
 Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation:
 https://www.youtube.com/watch?v=MRku-2fW42w
 
-Frida Tutorial for Reverse Engineers 1 of 10: [Installing Frida on Windows]:
-(https://youtu.be/ZdvSYc8VJG0?si=_t8XG_fyiaf9MSAr)
+Frida Tutorial for Reverse Engineers 1 of 10:
+https://youtu.be/ZdvSYc8VJG0?si=_t8XG_fyiaf9MSAr
 
 # Windows Debugging
 
