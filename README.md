@@ -70,7 +70,7 @@ https://youtu.be/ZdvSYc8VJG0?si=_t8XG_fyiaf9MSAr
 
 # Windows Debugging
 
-https://learn.microsoft.com/en-us/windows-hardware/drivers/debuggercmds/time-travel-debugging-overview
+Time Travel Debugging Overview: https://learn.microsoft.com/en-us/windows-hardware/drivers/debuggercmds/time-travel-debugging-overview
 
 Windows Debugging and Troubleshooting:
 https://www.youtube.com/watch?v=2rGS5fYGtJ4
