@@ -54,6 +54,8 @@ https://decoder.cloud/2020/05/11/no-more-juicypotato-old-story-welcome-roguepota
 
 https://decoder.cloud/2019/12/06/we-thought-they-were-potatoes-but-they-were-beans/
 
+https://connormcgarr.github.io/
+
 # Patch Diffing
 
 https://cve-north-stars.github.io/docs/Patch-Diffing
