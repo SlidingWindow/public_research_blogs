@@ -59,6 +59,7 @@ https://connormcgarr.github.io/
 # Patch Diffing
 
 https://cve-north-stars.github.io/docs/Patch-Diffing
+Patch Diffing CVE-2024-38063 (Windows TCPIP RCE): https://threadreaderapp.com/thread/1825472703223992323.html
 
 # Dynamic Instrumentation
 
