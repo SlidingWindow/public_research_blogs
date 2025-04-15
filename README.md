@@ -49,6 +49,12 @@ That's Just the Way It Is - How NT Describes I/O Requests: https://www.osronline
 
 Catalog of key Windows kernel data structures: https://codemachine.com/articles/kernel_structures.html#MDL
 
+Windows Drivers Reverse Engineering Methodology: https://voidsec.com/windows-drivers-reverse-engineering-methodology/#windows-driver-101
+Methodology for Static Reverse Engineering of Windows Kernel Drivers: https://medium.com/@matterpreter/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83
+
+Windows Kernel Programming Tutorial by Programming LOL: https://www.youtube.com/watch?v=XUlbYRFFYf0&list=PLZ4EgN7ZCzJx2DRXTRUXRrB2njWnx1kA2
+Windows Driver Development Tutorial by Programming LOL: https://www.youtube.com/watch?v=T5VtaP-wtkk&list=PLZ4EgN7ZCzJyUT-FmgHsW4e9BxfP-VMuo&index=1
+
 # Getting started with Windows Kernel Exploitation
 https://wetw0rk.github.io/posts/
 
