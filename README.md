@@ -43,6 +43,8 @@ https://www.tiraniddo.dev/2020/04/sharing-logon-session-little-too-much.html
 
 https://maldevacademy.com/syllabus
 
+That's Just the Way It Is - How NT Describes I/O Requests: https://www.osronline.com/article.cfm%5Eid=74.htm
+
 # Getting started with Windows Kernel Exploitation
 https://wetw0rk.github.io/posts/
 
@@ -61,6 +63,12 @@ https://connormcgarr.github.io/
 https://cve-north-stars.github.io/docs/Patch-Diffing
 Patch Diffing CVE-2024-38063 (Windows TCPIP RCE): https://threadreaderapp.com/thread/1825472703223992323.html
 
+# Reverse Engineering
+ghidraMCP: Now AI Can Reverse Malware: https://www.youtube.com/watch?v=u2vQapLAW88
+
+# Exploit Development
+Corelan
+KEYNOTE: The Exploit Development Life Cycle: From Concept to Compromise, Valentina Palmiotti: https://www.youtube.com/watch?v=ce0bXORSMX4
 # Dynamic Instrumentation
 
 Hooking Java Methods with Frida: https://www.youtube.com/watch?v=RJXsvAjZl9U
@@ -106,6 +114,8 @@ https://github.com/hasherezade/exe_to_dll/releases
 https://powersploit.readthedocs.io/en/latest/CodeExecution/Invoke-ReflectivePEInjection/
 
 https://www.cliffsnotes.com/study-notes/23452467
+
+Potential Evasion via Windows Filtering Platform: https://detection.fyi/elastic/detection-rules/windows/defense_evasion_windows_filtering_platform/
 
 # Generative AI and LLM
 
