@@ -47,6 +47,8 @@ That's Just the Way It Is - How NT Describes I/O Requests: https://www.osronline
 
 #HITB2017AMS D1T1 - Harnessing Intel Processor Trace On Windows For Vuln Discovery - Richard Johnson: https://www.youtube.com/watch?v=r8lzui24Cdw
 
+Catalog of key Windows kernel data structures: https://codemachine.com/articles/kernel_structures.html#MDL
+
 # Getting started with Windows Kernel Exploitation
 https://wetw0rk.github.io/posts/
 
