@@ -55,6 +55,8 @@ Methodology for Static Reverse Engineering of Windows Kernel Drivers: https://me
 Windows Kernel Programming Tutorial by Programming LOL: https://www.youtube.com/watch?v=XUlbYRFFYf0&list=PLZ4EgN7ZCzJx2DRXTRUXRrB2njWnx1kA2
 Windows Driver Development Tutorial by Programming LOL: https://www.youtube.com/watch?v=T5VtaP-wtkk&list=PLZ4EgN7ZCzJyUT-FmgHsW4e9BxfP-VMuo&index=1
 
+Black Hat Talk - Living off Microsoft Copilot: https://www.youtube.com/watch?v=FH6P288i2PE
+
 # Getting started with Windows Kernel Exploitation
 https://wetw0rk.github.io/posts/
 
@@ -131,6 +133,10 @@ Potential Evasion via Windows Filtering Platform: https://detection.fyi/elastic/
 
 https://www.snowflake.com/wp-content/uploads/2024/01/Generative-AI-and-LLMs-for-Dummies.pdf?gclid=EAIaIQobChMI3ubis9frhgMVx7CDBx2ubQUJEAAYASAAEgJrDPD_BwE&utm_campaign=ap-nz-en-nb-genaillm-phrase&utm_source=google&utm_term=c-g-llm-p-694345204029&utm_medium=paidsearch&utm_content=go-rsa-evg-eb-generative-ai-and-llms-for-dummies&gclid=EAIaIQobChMI3ubis9frhgMVx7CDBx2ubQUJEAAYASAAEgJrDPD_BwE
 
+# AWS
+
+AWS re:Invent 2023 - The pragmatic serverless Python developer (OPN305)
+: https://www.youtube.com/watch?v=52W3Qyg242Y
 
 # Productivity
 
@@ -139,6 +145,5 @@ Deep Work by Cal Newport: https://amzn.asia/d/11G1ptX
 https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
 
 https://azeria-labs.com/the-process-of-mastering-a-skill/
-
 
 
